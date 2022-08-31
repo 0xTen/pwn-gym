@@ -4,7 +4,7 @@ Personal goals/study guide
 ### Cover all linux kernel
 - Finish LDD3: https://lwn.net/Kernel/LDD3/
 - sk_buff:
-  - [https://blog.csdn.net/YuZhiHui_No1/article/details/38690015]()
+  - https://blog.csdn.net/YuZhiHui_No1/article/details/38690015
   - https://blog.csdn.net/yuzhihui_no1/article/details/38737615
   - https://blog.csdn.net/YuZhiHui_No1/article/details/38827603
   - https://blog.csdn.net/YuZhiHui_No1/article/details/38965069
@@ -38,3 +38,5 @@ Personal goals/study guide
 - write syzbot monitor + repro bot with GREBE:
   - https://zplin.me/papers/GREBE.pdf
   - https://github.com/Markakd/GREBE
+
+- FINALLY GET KCTF BOUNTY: https://google.github.io/kctf/vrp.html
